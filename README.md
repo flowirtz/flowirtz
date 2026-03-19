@@ -12,5 +12,3 @@ Here are some ideas to get you started:
 
 -->
 
-
-![Visitor Count](https://profile-counter.glitch.me/flowirtz/count.svg)
